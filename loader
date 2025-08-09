@@ -1,4 +1,15 @@
--- This script was generated using the MoonVeil Obfuscator v1.3.3 [https://moonveil.cc]
+--[[
+
+Thanks: discord.gg/akadmin
+
+   __    ___  ____  ____    __    __    ____  _  _ 
+  /__\  / __)(_  _)(  _ \  /__\  (  )  (_  _)( \/ )
+ /(__)\ \__ \  )(   )   / /(__)\  )(__  _)(_  )  ( 
+(__)(__)(___/ (__) (_)\_)(__)(__)(____)(____)(_/\_)
+
+Thanks: discord.gg/akadmin
+
+--]]
 
 local o,B,bb=bit32.bxor;
 local qa,a,Ha,Ja,K,P,Y,Ca,_b,ga,ka,Ia,Pa,s,r,T

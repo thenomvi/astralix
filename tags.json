@@ -1,4 +1,4 @@
-local tags = {
+
     ["AL DEV"] = {
         "then0mvi",
         "thenomvich",
@@ -24,4 +24,3 @@ local tags = {
         "kebrbdkspeh275",
         "Artem_Lumenko"
     }
-}

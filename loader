@@ -11,850 +11,888 @@ Thanks: discord.gg/akadmin
 
 --]]
 
-local Oc,yb,Rb=bit32.bxor;
-local Fa,v,W,va,w,Z,pb,Ia,ha,Cc,Wa,xc,L,kc,V,Jc,Dc
-W,v={},function(F,ab,zb)
-    W[F]=Oc(ab,5228)-Oc(zb,60426)
-    return W[F]
+local pb,V,Ea=bit32.bxor;
+local mb,ia,bc,nb,ac,Ka,lc,Ma,sc,Pa,fc,va,kc,Jc,Gc,Mb,aa,K,l,rb,Ba,Sc,Eb,T,y
+lc,nb={},function(gd,Ya,mc)
+    lc[gd]=pb(Ya,3608)-pb(mc,16175)
+    return lc[gd]
 end
-Jc=W[31884]or v(31884,122280,8271)
+ia=lc[-24980]or nb(-24980,70602,64191)
 repeat
     while true do
-        if Jc>16357- -16502 then
-            ha=(getfenv());
-            Jc=W[26380]or v(26380,60504,26071);
-        elseif Jc>26454-10752 then
-            if Jc>57558-28145 then
-                if Jc<=47581+-17559 then
-                    L=(function(...)
-                        return{[1]={...},[2]=va('#',...)}
-                    end);
-                    Jc=W[16896]or v(16896,98018,7952);
-                else
-                    Cc=((function()
-                        local function xa(q,ka,r)
-                            if ka>r then
-                                return
-                            end
-                            return q[ka],xa(q,ka+1,r)
+        if ia>688972848/31674 then
+            if ia>55200+-23897 then
+                sc=((function()
+                    local function hc(R,uc,xb)
+                        if uc>xb then
+                            return
                         end
-                        return xa
-                    end)());
-                    Jc=W[-45748+24807]or v(-38795- -17854,1090931514/11118,18323+5485);
-                    break;
-                end
+                        return R[uc],hc(R,uc+1,xb)
+                    end
+                    return hc
+                end)());
+                ia=lc[23538]or nb(23538,70789,33887);
+            elseif ia<=123+23613 then
+                Eb=(getfenv());
+                ia=lc[24718]or nb(24718,62699,63030);
+            elseif ia>0.91708879618593564*26848 then
+                Ba=(function(...)
+                    return{[1]={...},[2]=l('#',...)}
+                end);
+                ia=lc[32667]or nb(32667,60165,30718);
             else
-                Z,Ia,w=(string.char),(string.byte),(bit32 .bxor);
-                Jc=W[-26001]or v(-26001,62491,12597);
+                rb=('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/');
+                ia=lc[-8776]or nb(-8776,64401,55637);
             end
+        elseif ia>36044+-27917 then
+            if ia<=-0.65571789519938484*-18206 then
+                l=(select);
+                ia=lc[1584]or nb(1584,54245,17377);
+            else
+                kc,fc,aa=(string.char),(string.byte),(bit32 .bxor);
+                ia=lc[30442]or nb(30442,62982,62363);
+            end
+        elseif ia>91424643/24891 then
+            Sc,ac=(string.gsub),(string.char);
+            ia=lc[20850]or nb(20850,22039,30020);
         else
-            va=(select);
-            Jc=W[18015]or v(18015,88844,12365);
+            K=(function(Ga)
+                Ga=Sc(Ga,'[^'..rb..'=]','')
+                return(Ga:gsub('.',function(Qb)
+                    if(Qb=='=')then
+                        return''
+                    end
+                    local Wb,_b='',(rb:find(Qb)-1)
+                    for bb=6,1,-1 do
+                        Wb=Wb..(_b%2^bb-_b%2^(bb-1)>0 and'1'or'0')
+                    end
+                    return Wb;
+                end):gsub('%d%d%d?%d?%d?%d?%d?%d?',function(Ta)
+                    if(#Ta~=8)then
+                        return''
+                    end
+                    local U=0
+                    for Pc=1,8 do
+                        U=U+(Ta:sub(Pc,Pc)=='1'and 2^(8-Pc)or 0)
+                    end
+                    return ac(U)
+                end))
+            end);
+            ia=lc[883+-338]or nb(10041625/18425,1569591085/15077,62246+-5843);
+            break;
         end
     end
-until Jc==657405710/13798
-local Mc,B,lb,nb,bc,P
-Mc,lb={},function(gb,Va,Ka)
-    Mc[gb]=Oc(Va,23168)-Oc(Ka,48851)
-    return Mc[gb]
+until ia==42267+4122
+local nc,Y,Yc,ha,eb,Gb
+Y,Yc={},function(tc,oc,sa)
+    Y[tc]=pb(oc,10634)-pb(sa,42662)
+    return Y[tc]
 end
-bc=Mc[8220]or lb(8220,55838,41399)
+nc=Y[-5450]or Yc(-5450,54869,19789)
 repeat
     while true do
-        if bc<=19204- -13173 then
-            if bc>46724-31391 then
-                if bc>-8339+32267 then
-                    if bc>-1.740182824771469*-15534 then
-                        P=P()
-                        bc=Mc[31223]or lb(31223,58998,46244)
-                    else
-                        P='d\136m\170r\147v\171b'
-                        bc=-960107472/-24603
-                    end
-                else
-                    P=(function(g,hc)
-                        local i,ib,Vb,la,Ma,Ea,Ua,pc
-                        i,Ma={},function(Ab,mc,ga)
-                            i[Ab]=Oc(mc,51464)-Oc(ga,33621)
-                            return i[Ab]
+        if nc>29115- -715 then
+            if nc>14.27483870967742*3100 then
+                if nc<=-4.1559713492179506*-13682 then
+                    Gb=(function(Kb,Za)
+                        local gc,k,Oc,dd,fa,Wc,Ic,Yb
+                        Oc,Ic={},function(J,H,Ja)
+                            Oc[J]=pb(H,49189)-pb(Ja,63936)
+                            return Oc[J]
                         end
-                        Ua=i[11489]or Ma(11489,15538,24591)
+                        Wc=Oc[-32731]or Ic(-32731,29394,44164)
                         repeat
                             while true do
-                                if Ua>31167 then
-                                    if Ua>45843 then
-                                        if Ua>56624 then
-                                            return Ea
+                                if Wc<=29472 then
+                                    if Wc<=12560 then
+                                        if(gc>=0 and k>dd)or((gc<0 or gc~=gc)and k<dd)then
+                                            Wc=35859
                                         else
-                                            pc=pc+ib;
-                                            Vb=pc;
-                                            if pc~=pc then
-                                                Ua=57631
-                                            else
-                                                Ua=28579
-                                            end
+                                            Wc=Oc[2627]or Ic(2627,86845,18565)
                                         end
                                     else
-                                        Vb=pc;
-                                        if la~=la then
-                                            Ua=i[26596]or Ma(26596,83144,12276)
+                                        Yb='';
+                                        gc,dd,k=1,(#Kb-1)+207,207
+                                        Wc=Oc[-7060]or Ic(-7060,115379,40570)
+                                    end
+                                elseif Wc>46835 then
+                                    if Wc>52959 then
+                                        Yb=Yb..kc(aa(fc(Kb,(fa-207)+1),fc(Za,(fa-207)%#Za+1)))
+                                        Wc=Oc[-9728]or Ic(-9728,107191,24423)
+                                    else
+                                        k=k+gc;
+                                        fa=k;
+                                        if k~=k then
+                                            Wc=35859
                                         else
-                                            Ua=28579
+                                            Wc=1134
                                         end
                                     end
-                                elseif Ua<=17828 then
-                                    Ea='';
-                                    la,pc,ib=(#g-1)+175,175,1
-                                    Ua=i[-28866]or Ma(-28866,21214,38298)
-                                elseif Ua<=29766 then
-                                    if(ib>=0 and pc>la)or((ib<0 or ib~=ib)and pc<la)then
-                                        Ua=i[-26309]or Ma(-26309,9543,34917)
+                                elseif Wc>37751 then
+                                    fa=k;
+                                    if dd~=dd then
+                                        Wc=35859
                                     else
-                                        Ua=30953
+                                        Wc=Oc[-17197]or Ic(-17197,28903,21908)
                                     end
                                 else
-                                    Ea=Ea..Z(w(Ia(g,(Vb-175)+1),Ia(hc,(Vb-175)%#hc+1)))
-                                    Ua=i[2515]or Ma(2515,86403,15388)
+                                    return Yb
                                 end
                             end
-                        until Ua==62572
-                    end)(P,nb)
-                    bc=Mc[-752414250/-27075]or lb(-855681890/-30791,647.86458333333337*192,37064676/1221)
+                        until Wc==38713
+                    end)(Gb,eb)
+                    nc=42249-8430
+                else
+                    nc=Y[-0.10783901276118356*14262]or Yc(-31422878/20431,248149575/5025,-24857910/-693);
+                    break;
                 end
-            elseif bc<=34674-26383 then
-                nb='\20n\2l'
-                bc=70292-9677
-            else
-                P=P(function()
-                    local _c,Ob,wa,Rc,m,Xa,Nc,x
-                    _c,Ob={},function(t,K,Eb)
-                        _c[t]=Oc(K,126)-Oc(Eb,20574)
-                        return _c[t]
+            elseif nc>4.378109452736318*8442 then
+                eb=(function(Uc,Ra)
+                    local Ab,ga,jb,rc,bd,ra,lb,Na
+                    Na,bd={},function(_d,da,f)
+                        Na[_d]=pb(da,17658)-pb(f,63344)
+                        return Na[_d]
                     end
-                    Rc=_c[-6783]or Ob(-6783,84878,34676)
+                    ra=Na[5449]or bd(5449,44218,64049)
                     repeat
                         while true do
-                            if Rc<=34.356020942408378*955 then
-                                if Rc>4270+10953 then
-                                    if Rc<=-20683637/-871 then
-                                        if Rc>1.4117971334068358*14512 then
-                                            if Rc>34164-11171 then
-                                                if Rc<=-2.1302287432789573*-10973 then
-                                                    Xa=L((function(N,Ha)
-                                                        local pa,cc,fc,ob,D,Lc,ba,Ub
-                                                        pa,Lc={},function(aa,sb,mb)
-                                                            pa[aa]=Oc(sb,63096)-Oc(mb,60175)
-                                                            return pa[aa]
-                                                        end
-                                                        D=pa[-25135]or Lc(-25135,44344,59906)
-                                                        repeat
-                                                            while true do
-                                                                if D>32749 then
-                                                                    if D<=55130 then
-                                                                        ob=ob+Ub;
-                                                                        cc=ob;
-                                                                        if ob~=ob then
-                                                                            D=pa[-761]or Lc(-761,113710,7947)
-                                                                        else
-                                                                            D=55835
-                                                                        end
-                                                                    elseif D>58855 then
-                                                                        cc=ob;
-                                                                        if fc~=fc then
-                                                                            D=pa[20533]or Lc(20533,26721,44232)
-                                                                        else
-                                                                            D=55835
-                                                                        end
-                                                                    else
-                                                                        if(Ub>=0 and ob>fc)or((Ub<0 or Ub~=Ub)and ob<fc)then
-                                                                            D=22098
-                                                                        else
-                                                                            D=pa[24434]or Lc(24434,48840,53638)
-                                                                        end
-                                                                    end
-                                                                elseif D>13357 then
-                                                                    if D>22594 then
-                                                                        ba='';
-                                                                        Ub,fc,ob=1,(#N-1)+15,15
-                                                                        D=pa[24939]or Lc(24939,75939,1575)
-                                                                    else
-                                                                        return ba
-                                                                    end
-                                                                else
-                                                                    ba=ba..Z(w(Ia(N,(cc-15)+1),Ia(Ha,(cc-15)%#Ha+1)))
-                                                                    D=pa[-1480]or Lc(-1480,87263,3754)
-                                                                end
-                                                            end
-                                                        until D==23180
-                                                    end)(Xa,Nc))
-                                                    Rc=-337099698/-23439
-                                                else
-                                                    Nc='u\179\182\v\48aK\255\53b\221\51\180\182T{\24 \227+v\152|'
-                                                    Rc=_c[-24306- -19784]or Ob(45848558/-10139,109869+-29565,271678815/4959)
-                                                end
-                                            else
-                                                Xa=ha[Xa]
-                                                Rc=3794- -19730
-                                            end
-                                        elseif Rc>27812+-8992 then
-                                            if Rc<=37661+-17725 then
-                                                Nc=L((function(cb,lc)
-                                                    local ea,E,vc,ya,ic,Wb,Jb,tc
-                                                    ya,ea={},function(M,rb,s)
-                                                        ya[M]=Oc(rb,57658)-Oc(s,60200)
-                                                        return ya[M]
-                                                    end
-                                                    vc=ya[16385]or ea(16385,99009,30086)
-                                                    repeat
-                                                        while true do
-                                                            if vc<=40863 then
-                                                                if vc>29715 then
-                                                                    if vc<=34175 then
-                                                                        Jb=Jb..Z(w(Ia(cb,(E-159)+1),Ia(lc,(E-159)%#lc+1)))
-                                                                        vc=ya[-19307]or ea(-19307,130033,33607)
-                                                                    else
-                                                                        return Jb
-                                                                    end
-                                                                else
-                                                                    if(ic>=0 and tc>Wb)or((ic<0 or ic~=ic)and tc<Wb)then
-                                                                        vc=ya[1644]or ea(1644,15422,48823)
-                                                                    else
-                                                                        vc=ya[-93]or ea(-93,14321,47129)
-                                                                    end
-                                                                end
-                                                            elseif vc<=51308 then
-                                                                if vc<=48084 then
-                                                                    tc=tc+ic;
-                                                                    E=tc;
-                                                                    if tc~=tc then
-                                                                        vc=ya[11336]or ea(11336,91632,5709)
-                                                                    else
-                                                                        vc=ya[11770]or ea(11770,129481,21273)
-                                                                    end
-                                                                else
-                                                                    Jb='';
-                                                                    tc,ic,Wb=159,1,(#cb-1)+159
-                                                                    vc=56957
-                                                                end
-                                                            else
-                                                                E=tc;
-                                                                if Wb~=Wb then
-                                                                    vc=34661
-                                                                else
-                                                                    vc=24770
-                                                                end
-                                                            end
-                                                        end
-                                                    until vc==7741
-                                                end)(Nc,x))
-                                                Rc=_c[59385-27523]or Ob(16461+15401,2.2148135053915503*28285,1209336510/30210)
-                                            else
-                                                wa='\29\151\255\240>'
-                                                Rc=7592998/1646
-                                            end
-                                        elseif Rc<=42011-24391 then
-                                            wa='\158\184\148\188'
-                                            Rc=_c[-47384- -18891]or Ob(-56998+28505,679097980/6358,45187+-12152)
+                            if ra>30478 then
+                                if ra>51627 then
+                                    if ra>58469 then
+                                        ga=ga+jb;
+                                        Ab=ga;
+                                        if ga~=ga then
+                                            ra=8447
                                         else
-                                            x='\158\167\15qr\255*\213\253/\221'
-                                            Rc=_c[-11491+-18627]or Ob(-25213-4905,-370497568/-18536,8197- -12757)
-                                        end
-                                    elseif Rc>74291490/2702 then
-                                        if Rc>55356-25388 then
-                                            Nc='\249\217'
-                                            Rc=18274+-5128
-                                        else
-                                            m='\251B\207\253\\\227_\199\247H'
-                                            Rc=_c[-33731- -18174]or Ob(8393+-23950,21347+31179,58894+-28275)
-                                        end
-                                    elseif Rc<=-854306840/-32707 then
-                                        m=m(Cc(wa[1],1,wa[2]))
-                                        Rc=_c[-26781+11901]or Ob(-9393-5487,27.626823793490459*1782,-9.1460674157303377*-2492)
-                                    elseif Rc<=-401524694/-14879 then
-                                        if Rc>27485+-669 then
-                                            Nc='\27uJ'
-                                            Rc=_c[422882285/-24437]or Ob(4.7764283742754623*-3623,-39508112/-18032,-436325386/-19589)
-                                        else
-                                            m=m()
-                                            Rc=_c[-29656]or Ob(-29656,53932,24384)
+                                            ra=Na[-10999]or bd(-10999,72456,19735)
                                         end
                                     else
-                                        Nc=L((function(ec,ua)
-                                            local Ja,ca,Gc,Ba,hb,Xb,Nb,da
-                                            Ba,hb={},function(db,H,J)
-                                                Ba[db]=Oc(H,7799)-Oc(J,10300)
-                                                return Ba[db]
-                                            end
-                                            da=Ba[30425]or hb(30425,55140,48448)
-                                            repeat
-                                                while true do
-                                                    if da<=39191 then
-                                                        if da>25877 then
-                                                            return ca
-                                                        else
-                                                            ca='';
-                                                            Ja,Gc,Xb=123,(#ec-1)+123,1
-                                                            da=Ba[-1700]or hb(-1700,67237,7540)
-                                                        end
-                                                    elseif da>55013 then
-                                                        if da<=61274 then
-                                                            if da<=57812 then
-                                                                Ja=Ja+Xb;
-                                                                Nb=Ja;
-                                                                if Ja~=Ja then
-                                                                    da=38548
-                                                                else
-                                                                    da=Ba[-15719]or hb(-15719,79068,1064)
-                                                                end
-                                                            else
-                                                                Nb=Ja;
-                                                                if Gc~=Gc then
-                                                                    da=Ba[15720]or hb(15720,71271,22848)
-                                                                else
-                                                                    da=Ba[-29042]or hb(-29042,76006,8134)
-                                                                end
-                                                            end
-                                                        else
-                                                            if(Xb>=0 and Ja>Gc)or((Xb<0 or Xb~=Xb)and Ja<Gc)then
-                                                                da=38548
-                                                            else
-                                                                da=Ba[12487]or hb(12487,42066,8909)
-                                                            end
-                                                        end
-                                                    else
-                                                        ca=ca..Z(w(Ia(ec,(Nb-123)+1),Ia(ua,(Nb-123)%#ua+1)))
-                                                        da=Ba[-28235]or hb(-28235,60460,14849)
-                                                    end
-                                                end
-                                            until da==24180
-                                        end)(Nc,x))
-                                        Rc=_c[37823-30776]or Ob(0.3155420230152689*22333,98962-3622,77247-27647)
+                                        rc='';
+                                        jb,lb,ga=1,(#Uc-1)+12,12
+                                        ra=81
                                     end
-                                elseif Rc>31431-24038 then
-                                    if Rc>308606636/25471 then
-                                        if Rc>4.6156941649899395*2982 then
-                                            if Rc>-1.5233665080051926*-9244 then
-                                                wa=wa[Cc(Xa[1],1,Xa[2])]
-                                                Rc=-0.61699270334392764*-22339
+                                else
+                                    if(jb>=0 and ga>lb)or((jb<0 or jb~=jb)and ga<lb)then
+                                        ra=8447
+                                    else
+                                        ra=30377
+                                    end
+                                end
+                            elseif ra<=15229 then
+                                if ra<=4264 then
+                                    Ab=ga;
+                                    if lb~=lb then
+                                        ra=Na[22990]or bd(22990,11329,45260)
+                                    else
+                                        ra=42379
+                                    end
+                                else
+                                    return rc
+                                end
+                            else
+                                rc=rc..kc(aa(fc(Uc,(Ab-12)+1),fc(Ra,(Ab-12)%#Ra+1)))
+                                ra=Na[-22056]or bd(-22056,119674,24260)
+                            end
+                        end
+                    until ra==25918
+                end)(eb,ha)
+                nc=22253-19259
+            elseif nc<=5638+26606 then
+                if nc>56974+-26060 then
+                    eb='\162J5i'
+                    nc=Y[-0.085089476957092514*28946]or Yc(-25729- -23266,-3.8099923384007419*-24799,424201309/7639)
+                else
+                    eb='\195)\213+'
+                    nc=-99005248/-6592
+                end
+            else
+                Gb=Eb[Gb]
+                nc=Y[-164678965/-16951]or Yc(-13624+23339,81636- -8238,46918+-24281)
+            end
+        elseif nc>-3909+12522 then
+            if nc>-2.6734048163121815*-5689 then
+                Gb=Gb(function()
+                    local vc,n,g,A,ka,Ib,ca,qc
+                    n,vc={},function(G,I,hb)
+                        n[G]=pb(I,23906)-pb(hb,21510)
+                        return n[G]
+                    end
+                    Ib=n[-25312]or vc(-25312,37746,9471)
+                    repeat
+                        while true do
+                            if Ib<=22843- -10091 then
+                                if Ib>-1.1947161727954303*-14005 then
+                                    if Ib>50937+-23532 then
+                                        if Ib<=926917470/29838 then
+                                            if Ib>16222+13582 then
+                                                A='\210\199\198\140M'
+                                                Ib=-12.623291990750474*-4757
+                                            elseif Ib>24521+4691 then
+                                                if Ib<=38969-9748 then
+                                                    g='SA/'
+                                                    Ib=2.8378447613354965*11711
+                                                else
+                                                    ca=(function(Bc,ec)
+                                                        local sb,Va,Q,Rb,e,ib,qa,j
+                                                        ib,e={},function(s,cb,Tc)
+                                                            ib[s]=pb(cb,35095)-pb(Tc,23233)
+                                                            return ib[s]
+                                                        end
+                                                        j=ib[18613]or e(18613,1755,18260)
+                                                        repeat
+                                                            while true do
+                                                                if j>39904 then
+                                                                    if j>49052 then
+                                                                        if j<=53584 then
+                                                                            qa=qa+Rb;
+                                                                            sb=qa;
+                                                                            if qa~=qa then
+                                                                                j=ib[-28844]or e(-28844,117323,64433)
+                                                                            else
+                                                                                j=23156
+                                                                            end
+                                                                        else
+                                                                            Va=Va..kc(aa(fc(Bc,(sb-138)+1),fc(ec,(sb-138)%#ec+1)))
+                                                                            j=ib[-31550]or e(-31550,67436,37863)
+                                                                        end
+                                                                    else
+                                                                        return Va
+                                                                    end
+                                                                elseif j<=26197 then
+                                                                    if j>23680 then
+                                                                        sb=qa;
+                                                                        if Q~=Q then
+                                                                            j=41452
+                                                                        else
+                                                                            j=23156
+                                                                        end
+                                                                    else
+                                                                        if(Rb>=0 and qa>Q)or((Rb<0 or Rb~=Rb)and qa<Q)then
+                                                                            j=41452
+                                                                        else
+                                                                            j=ib[-1112]or e(-1112,122067,8889)
+                                                                        end
+                                                                    end
+                                                                else
+                                                                    Va='';
+                                                                    qa,Rb,Q=138,1,(#Bc-1)+138
+                                                                    j=24205
+                                                                end
+                                                            end
+                                                        until j==28573
+                                                    end)(ca,g)
+                                                    Ib=16261+-15095
+                                                end
                                             else
-                                                Xa='\158\184\148\188'
-                                                Rc=24260+5782
+                                                A=A[sc(ca[1],1,ca[2])]
+                                                Ib=n[5.4716735402648142*-4607]or vc(118074272/-4684,155465-29560,62733+-16044)
                                             end
                                         else
-                                            Xa=(function(jc,b)
-                                                local Ib,Fb,Sa,Qc,Gb,u,ta,Ec
-                                                Ec,ta={},function(Kb,eb,f)
-                                                    Ec[Kb]=Oc(eb,61581)-Oc(f,50778)
-                                                    return Ec[Kb]
+                                            g=Ba((function(O,la)
+                                                local Hc,p,wb,na,gb,ad,Ca,ea
+                                                gb,ea={},function(u,cd,xa)
+                                                    gb[u]=pb(cd,27048)-pb(xa,2445)
+                                                    return gb[u]
                                                 end
-                                                Sa=Ec[16847]or ta(16847,106566,5841)
+                                                na=gb[8609]or ea(8609,47975,36272)
                                                 repeat
                                                     while true do
-                                                        if Sa<=44012 then
-                                                            if Sa<=35275 then
-                                                                if Sa>29918 then
-                                                                    u='';
-                                                                    Qc,Gb,Ib=152,1,(#jc-1)+152
-                                                                    Sa=46107
-                                                                else
-                                                                    u=u..Z(w(Ia(jc,(Fb-152)+1),Ia(b,(Fb-152)%#b+1)))
-                                                                    Sa=Ec[4937]or ta(4937,87128,15590)
-                                                                end
+                                                        if na<=19934 then
+                                                            if na<=11157 then
+                                                                Ca=Ca..kc(aa(fc(O,(p-203)+1),fc(la,(p-203)%#la+1)))
+                                                                na=gb[-27634]or ea(-27634,46864,22640)
+                                                            elseif na>16158 then
+                                                                return Ca
                                                             else
-                                                                Qc=Qc+Gb;
-                                                                Fb=Qc;
-                                                                if Qc~=Qc then
-                                                                    Sa=51840
+                                                                if(Hc>=0 and wb>ad)or((Hc<0 or Hc~=Hc)and wb<ad)then
+                                                                    na=gb[-18088]or ea(-18088,45340,39174)
                                                                 else
-                                                                    Sa=61020
+                                                                    na=gb[-25014]or ea(-25014,6950,27136)
                                                                 end
                                                             end
-                                                        elseif Sa>53563 then
-                                                            if(Gb>=0 and Qc>Ib)or((Gb<0 or Gb~=Gb)and Qc<Ib)then
-                                                                Sa=Ec[17066]or ta(17066,121211,39212)
+                                                        elseif na<=28070 then
+                                                            if na<=23483 then
+                                                                Ca='';
+                                                                Hc,ad,wb=1,(#O-1)+203,203
+                                                                na=26853
                                                             else
-                                                                Sa=Ec[6785]or ta(6785,32534,57412)
+                                                                p=wb;
+                                                                if ad~=ad then
+                                                                    na=18473
+                                                                else
+                                                                    na=13843
+                                                                end
                                                             end
-                                                        elseif Sa>48973 then
-                                                            return u
                                                         else
-                                                            Fb=Qc;
-                                                            if Ib~=Ib then
-                                                                Sa=Ec[32729]or ta(32729,15819,50332)
+                                                            wb=wb+Hc;
+                                                            p=wb;
+                                                            if wb~=wb then
+                                                                na=18473
                                                             else
-                                                                Sa=61020
+                                                                na=13843
                                                             end
                                                         end
                                                     end
-                                                until Sa==3825
-                                            end)(Xa,Nc)
-                                            Rc=_c[55713+-24978]or Ob(20335- -10400,66263- -26122,-3.7294049346879534*-17225)
+                                                until na==19435
+                                            end)(g,qc))
+                                            Ib=30351- -26191
                                         end
-                                    elseif Rc<=0.36936576130488602*27466 then
-                                        Xa='S\1>k2/o'
-                                        Rc=26722+228
-                                    else
-                                        wa=L(wa(Xa,(Cc(Nc[1],1,Nc[2]))))
-                                        Rc=-541817433/-21717
-                                    end
-                                elseif Rc>-0.37523080981271434*-7582 then
-                                    if Rc<=36472-31523 then
-                                        m=(function(xb,Hc)
-                                            local k,Fc,oc,Pa,sa,fa,Bc,Mb
-                                            Pa,Mb={},function(I,nc,gc)
-                                                Pa[I]=Oc(nc,38548)-Oc(gc,42059)
-                                                return Pa[I]
-                                            end
-                                            Bc=Pa[8191]or Mb(8191,31593,61575)
-                                            repeat
-                                                while true do
-                                                    if Bc>33994 then
-                                                        if Bc>50965 then
-                                                            Fc=oc;
-                                                            if sa~=sa then
-                                                                Bc=5294
-                                                            else
-                                                                Bc=Pa[18760]or Mb(18760,15553,46525)
-                                                            end
-                                                        elseif Bc>39112 then
-                                                            fa='';
-                                                            oc,sa,k=162,(#xb-1)+162,1
-                                                            Bc=Pa[-16414]or Mb(-16414,111039,38187)
-                                                        else
-                                                            if(k>=0 and oc>sa)or((k<0 or k~=k)and oc<sa)then
-                                                                Bc=Pa[-2116]or Mb(-2116,13691,11018)
-                                                            else
-                                                                Bc=27385
-                                                            end
-                                                        end
-                                                    elseif Bc<=16225 then
-                                                        if Bc<=5180 then
-                                                            oc=oc+k;
-                                                            Fc=oc;
-                                                            if oc~=oc then
-                                                                Bc=Pa[18434]or Mb(18434,10023,14670)
-                                                            else
-                                                                Bc=39007
-                                                            end
-                                                        else
-                                                            return fa
-                                                        end
-                                                    else
-                                                        fa=fa..Z(w(Ia(xb,(Fc-162)+1),Ia(Hc,(Fc-162)%#Hc+1)))
-                                                        Bc=Pa[-21840]or Mb(-21840,103295,22122)
-                                                    end
-                                                end
-                                            until Bc==58993
-                                        end)(m,wa)
-                                        Rc=-8342+8843
-                                    else
-                                        Nc='\246\211{\1\1\197\5\250\205W\237\176\212{^J\188n\156\211C\168\255'
-                                        Rc=29499-11711
-                                    end
-                                elseif Rc>30655-29380 then
-                                    if Rc>7609+-5529 then
-                                        Xa='\141\226\f\181\209\29\177'
-                                        Rc=80736+-30863
-                                    else
-                                        wa=L((function(z,Zb)
-                                            local Ra,ia,e,Za,Lb,_b,Ic,Q
-                                            Lb,ia={},function(wc,Tb,qb)
-                                                Lb[wc]=Oc(Tb,61727)-Oc(qb,41111)
-                                                return Lb[wc]
-                                            end
-                                            Ra=Lb[-17658]or ia(-17658,116415,53578)
-                                            repeat
-                                                while true do
-                                                    if Ra>46308 then
-                                                        if Ra>55702 then
-                                                            if Ra<=60429 then
-                                                                if(_b>=0 and Za>e)or((_b<0 or _b~=_b)and Za<e)then
-                                                                    Ra=Lb[-24403]or ia(-24403,30182,43021)
-                                                                else
-                                                                    Ra=60778
-                                                                end
-                                                            else
-                                                                Ic=Ic..Z(w(Ia(z,(Q-100)+1),Ia(Zb,(Q-100)%#Zb+1)))
-                                                                Ra=Lb[6624]or ia(6624,104736,6772)
-                                                            end
-                                                        else
-                                                            Ic='';
-                                                            Za,e,_b=100,(#z-1)+100,1
-                                                            Ra=Lb[4561]or ia(4561,111408,7367)
-                                                        end
-                                                    elseif Ra>38109 then
-                                                        Za=Za+_b;
-                                                        Q=Za;
-                                                        if Za~=Za then
-                                                            Ra=31839
-                                                        else
-                                                            Ra=60080
-                                                        end
-                                                    elseif Ra>33055 then
-                                                        Q=Za;
-                                                        if e~=e then
-                                                            Ra=Lb[-27792]or ia(-27792,99288,22271)
-                                                        else
-                                                            Ra=Lb[27489]or ia(27489,71065,22849)
-                                                        end
-                                                    else
-                                                        return Ic
-                                                    end
-                                                end
-                                            until Ra==51951
-                                        end)(wa,Xa))
-                                        Rc=_c[-17431+-8007]or Ob(-40364+14926,20734+26200,11059+6120)
-                                    end
-                                elseif Rc<=-26774+27227 then
-                                    Xa=L((function(ma,kb)
-                                        local R,za,Yb,Db,Cb,oa,Na,Qa
-                                        Na,R={},function(jb,yc,Pb)
-                                            Na[jb]=Oc(yc,29249)-Oc(Pb,31071)
-                                            return Na[jb]
-                                        end
-                                        Cb=Na[-28001]or R(-28001,77918,45805)
-                                        repeat
-                                            while true do
-                                                if Cb<=28807 then
-                                                    if Cb<=11839 then
-                                                        if Cb>9755 then
-                                                            Db=Db+oa;
-                                                            za=Db;
-                                                            if Db~=Db then
-                                                                Cb=Na[16697]or R(16697,96407,13475)
-                                                            else
-                                                                Cb=45044
-                                                            end
-                                                        else
-                                                            Yb=Yb..Z(w(Ia(ma,(za-140)+1),Ia(kb,(za-140)%#kb+1)))
-                                                            Cb=Na[-14360]or R(-14360,96583,39514)
-                                                        end
-                                                    else
-                                                        za=Db;
-                                                        if Qa~=Qa then
-                                                            Cb=48346
-                                                        else
-                                                            Cb=45044
-                                                        end
-                                                    end
-                                                elseif Cb>39331 then
-                                                    if Cb<=46695 then
-                                                        if(oa>=0 and Db>Qa)or((oa<0 or oa~=oa)and Db<Qa)then
-                                                            Cb=48346
-                                                        else
-                                                            Cb=9269
-                                                        end
-                                                    else
-                                                        return Yb
-                                                    end
-                                                else
-                                                    Yb='';
-                                                    oa,Db,Qa=1,140,(#ma-1)+140
-                                                    Cb=Na[3072]or R(3072,62970,13870)
-                                                end
-                                            end
-                                        until Cb==3335
-                                    end)(Xa,Nc))
-                                    Rc=_c[20607-20643]or Ob(0.0022887659736791914*-15729,2.313007633587786*32750,-101449933/-3263)
-                                else
-                                    m=ha[m]
-                                    Rc=26277- -25700
-                                end
-                            elseif Rc>42865+8507 then
-                                if Rc<=74791+-16195 then
-                                    if Rc<=69998+-15024 then
-                                        if Rc>30462+22711 then
-                                            if Rc>1.7628362659326977*30519 then
-                                                if Rc>66768+-12624 then
-                                                    m=ha[m]
-                                                    Rc=_c[2179-6919]or Ob(72147540/-15221,123667020/1788,3.3412758766370936*11835)
-                                                else
-                                                    m=(function(Da,ja)
-                                                        local y,rc,h,dc,Ya,G,Bb,Kc
-                                                        G,Kc={},function(Ca,Ac,A)
-                                                            G[Ca]=Oc(Ac,34857)-Oc(A,29100)
-                                                            return G[Ca]
-                                                        end
-                                                        y=G[-4018]or Kc(-4018,106019,11766)
-                                                        repeat
-                                                            while true do
-                                                                if y<=31206 then
-                                                                    if y<=8150 then
-                                                                        if y>3863 then
-                                                                            return h
-                                                                        else
-                                                                            if(Ya>=0 and Bb>dc)or((Ya<0 or Ya~=Ya)and Bb<dc)then
-                                                                                y=6118
-                                                                            else
-                                                                                y=55008
-                                                                            end
-                                                                        end
-                                                                    else
-                                                                        Bb=Bb+Ya;
-                                                                        rc=Bb;
-                                                                        if Bb~=Bb then
-                                                                            y=G[-5729]or Kc(-5729,6005,63194)
-                                                                        else
-                                                                            y=G[-30137]or Kc(-30137,48096,23596)
-                                                                        end
-                                                                    end
-                                                                elseif y>54169 then
-                                                                    if y>57905 then
-                                                                        rc=Bb;
-                                                                        if dc~=dc then
-                                                                            y=G[5839]or Kc(5839,209,190)
-                                                                        else
-                                                                            y=G[-24533]or Kc(-24533,57096,8564)
-                                                                        end
-                                                                    else
-                                                                        h=h..Z(w(Ia(Da,(rc-83)+1),Ia(ja,(rc-83)%#ja+1)))
-                                                                        y=G[-19192]or Kc(-19192,47027,30618)
-                                                                    end
-                                                                else
-                                                                    h='';
-                                                                    dc,Ya,Bb=(#Da-1)+83,1,83
-                                                                    y=G[-28000]or Kc(-28000,122995,2939)
-                                                                end
-                                                            end
-                                                        until y==46728
-                                                    end)(m,wa)
-                                                    Rc=44038+10331
-                                                end
+                                    elseif Ib<=33946-9344 then
+                                        if Ib<=20858+1996 then
+                                            if Ib>14604+7507 then
+                                                A=A[sc(ca[1],1,ca[2])]
+                                                Ib=n[12407-9832]or vc(-7316+9891,71132-262,67012-13505)
                                             else
-                                                Xa='\249\217'
-                                                Rc=_c[-51461- -27334]or Ob(644745821/-26723,-364309052/-5948,58331-11421)
+                                                ca=Eb[ca]
+                                                Ib=n[-171435464/16046]or vc(339986248/-31822,48730+-3171,-1.3867264377870108*-27438)
                                             end
                                         else
-                                            wa='_\229U\225'
-                                            Rc=_c[354414045/-27795]or Ob(57889540/-4540,49475- -8995,-14723+15012)
+                                            ka='\190\168\167\232>\166\181\175\226*'
+                                            Ib=n[17647-13046]or vc(3712- -889,63884-2656,-457155137/-16013)
                                         end
-                                    elseif Rc>44364- -13309 then
-                                        wa=L(wa(Xa,(Cc(Nc[1],1,Nc[2]))))
-                                        Rc=_c[-3.4734525447042639*-7270]or Ob(-1.1865983741365538*-21281,56867- -12778,-0.51187419768934528*-12464)
                                     else
-                                        m='q\248\158\148Mi\229\150\158Y'
-                                        Rc=283950342/14066
-                                    end
-                                elseif Rc>5.4428762318356441*11974 then
-                                    wa=L((function(O,zc)
-                                        local na,l,n,uc,X,C,Pc,a
-                                        l,a={},function(Sb,Hb,o)
-                                            l[Sb]=Oc(Hb,39842)-Oc(o,31666)
-                                            return l[Sb]
-                                        end
-                                        na=l[30243]or a(30243,24455,7279)
-                                        repeat
-                                            while true do
-                                                if na<=34476 then
-                                                    if na>15134 then
-                                                        if na>22482 then
-                                                            C='';
-                                                            n,Pc,uc=(#O-1)+34,34,1
-                                                            na=l[6969]or a(6969,104798,54290)
-                                                        else
-                                                            X=Pc;
-                                                            if n~=n then
-                                                                na=l[-12865]or a(-12865,19326,31550)
+                                        g=Ba((function(za,zc)
+                                            local t,Rc,Ub,Qc,a,Vc,m,Fa
+                                            Qc,m={},function(fd,i,Xb)
+                                                Qc[fd]=pb(i,39431)-pb(Xb,20725)
+                                                return Qc[fd]
+                                            end
+                                            a=Qc[10396]or m(10396,113812,10061)
+                                            repeat
+                                                while true do
+                                                    if a>30644 then
+                                                        if a>51359 then
+                                                            Vc=Vc..kc(aa(fc(za,(t-97)+1),fc(zc,(t-97)%#zc+1)))
+                                                            a=Qc[-5285]or m(-5285,37192,21615)
+                                                        elseif a<=43954 then
+                                                            if(Rc>=0 and Fa>Ub)or((Rc<0 or Rc~=Rc)and Fa<Ub)then
+                                                                a=Qc[18704]or m(18704,103521,35187)
                                                             else
-                                                                na=l[21123]or a(21123,98527,21419)
+                                                                a=59572
+                                                            end
+                                                        else
+                                                            Vc='';
+                                                            Fa,Ub,Rc=97,(#za-1)+97,1
+                                                            a=7694
+                                                        end
+                                                    elseif a>7626 then
+                                                        if a<=10615 then
+                                                            t=Fa;
+                                                            if Ub~=Ub then
+                                                                a=13536
+                                                            else
+                                                                a=43146
+                                                            end
+                                                        else
+                                                            return Vc
+                                                        end
+                                                    else
+                                                        Fa=Fa+Rc;
+                                                        t=Fa;
+                                                        if Fa~=Fa then
+                                                            a=Qc[-3366]or m(-3366,32340,65414)
+                                                        else
+                                                            a=Qc[-1615]or m(-1615,70571,45527)
+                                                        end
+                                                    end
+                                                end
+                                            until a==64239
+                                        end)(g,sc(qc[1],1,qc[2])))
+                                        Ib=n[-23446+7346]or vc(5.4227012462108455*-2969,986776488/15711,-27992396/-1678)
+                                    end
+                                elseif Ib>-9661- -17581 then
+                                    if Ib<=-0.44649582997040627*-29736 then
+                                        if Ib<=-51613584/-4422 then
+                                            if Ib>-1654+13094 then
+                                                ca="\27\53[#\6J\'"
+                                                Ib=n[-24772512/3984]or vc(15824-22042,71645+-10106,-178352262/-6282)
+                                            else
+                                                g='8Xzzz/eItlZoq9D7h7CqdakhbP3XJWJgxLJKMOvT3fZlqMnv3/wXdafR+oGqqm+9L3D2nTpgZsTpQzH+mdvr'
+                                                Ib=n[1.6711694902604672*-13399]or vc(-26905+4513,3.4545005133665438*26297,-1359730229/-21923)
+                                            end
+                                        else
+                                            A=Eb[sc(A[1],1,A[2])]
+                                            Ib=-3.2317922735908802*-4737
+                                        end
+                                    else
+                                        ca='\28i\177$Z\160 '
+                                        Ib=740278280/11417
+                                    end
+                                elseif Ib<=25709-22484 then
+                                    if Ib>-29768- -30616 then
+                                        ca=Eb[ca]
+                                        Ib=n[577-16396]or vc(-20781+4962,21298- -12321,743376300/32540)
+                                    else
+                                        A=Eb[sc(A[1],1,A[2])]
+                                        Ib=6303+5331
+                                    end
+                                elseif Ib<=3841+886 then
+                                    A='\246P\252T'
+                                    Ib=n[-2.1482802547770699*3925]or vc(1.3036487322201609*-6468,-89637509/-859,74280+-27384)
+                                else
+                                    ka='\96\27\179\206\237x\6\187\196\249'
+                                    Ib=61211+-18408
+                                end
+                            elseif Ib>-1331335705/-27013 then
+                                if Ib<=-1.9874248410925959*-29105 then
+                                    if Ib>81557-28111 then
+                                        if Ib<=1119561282/20349 then
+                                            if Ib>34036- -19885 then
+                                                ca='\246P\252T'
+                                                Ib=68074-17361
+                                            else
+                                                g='B\2pt\254\156\253\209\231\14B\4\5p+\181\229\150\205\249\26\aK'
+                                                Ib=78250-13600
+                                            end
+                                        elseif Ib<=78174+-22030 then
+                                            if Ib>71161-15358 then
+                                                ka=ka(sc(A[1],1,A[2]))
+                                                Ib=n[-34288- -3545]or vc(-16957+-13786,36528+6750,-250452100/-9340)
+                                            else
+                                                Ib=n[-28179+7453]or vc(-0.65684223870190783*31554,-483436416/-8574,-11614- -20139);
+                                                break;
+                                            end
+                                        else
+                                            A=Ba(A(ca,(sc(g[1],1,g[2]))))
+                                            Ib=n[-9192+14824]or vc(31292-25660,-3.7463202898077741*-30641,29193+31949)
+                                        end
+                                    elseif Ib<=37293- -14533 then
+                                        if Ib<=-1642946916/-32513 then
+                                            ca='\3L\tH'
+                                            Ib=n[0.83171355498721222*-5865]or vc(0.65999188201867132*-7391,87300-5838,-552276144/-9072)
+                                        else
+                                            g='\145\49'
+                                            Ib=n[199365764/7202]or vc(16569- -11113,81301+-20456,57781-25134)
+                                        end
+                                    else
+                                        A=Ba((function(w,o)
+                                            local Hb,yc,ab,Xc,wa,xc,Ac,Wa
+                                            Ac,xc={},function(Oa,ta,F)
+                                                Ac[Oa]=pb(ta,65088)-pb(F,61550)
+                                                return Ac[Oa]
+                                            end
+                                            wa=Ac[18765]or xc(18765,104693,15164)
+                                            repeat
+                                                while true do
+                                                    if wa<=50025 then
+                                                        if wa>41746 then
+                                                            if wa>47267 then
+                                                                Xc=Wa;
+                                                                if ab~=ab then
+                                                                    wa=46076
+                                                                else
+                                                                    wa=35033
+                                                                end
+                                                            else
+                                                                return yc
+                                                            end
+                                                        elseif wa>37406 then
+                                                            if wa>39073 then
+                                                                yc='';
+                                                                Hb,Wa,ab=1,150,(#w-1)+150
+                                                                wa=Ac[-23346]or xc(-23346,14954,63153)
+                                                            else
+                                                                yc=yc..kc(aa(fc(w,(Xc-150)+1),fc(o,(Xc-150)%#o+1)))
+                                                                wa=Ac[7627]or xc(7627,67671,2163)
+                                                            end
+                                                        else
+                                                            if(Hb>=0 and Wa>ab)or((Hb<0 or Hb~=Hb)and Wa<ab)then
+                                                                wa=46076
+                                                            else
+                                                                wa=Ac[-3707]or xc(-3707,99229,6032)
                                                             end
                                                         end
                                                     else
-                                                        Pc=Pc+uc;
-                                                        X=Pc;
-                                                        if Pc~=Pc then
-                                                            na=53328
+                                                        Wa=Wa+Hb;
+                                                        Xc=Wa;
+                                                        if Wa~=Wa then
+                                                            wa=46076
                                                         else
-                                                            na=62308
+                                                            wa=Ac[25698]or xc(25698,30541,61530)
                                                         end
                                                     end
-                                                elseif na<=48849 then
-                                                    C=C..Z(w(Ia(O,(X-34)+1),Ia(zc,(X-34)%#zc+1)))
-                                                    na=l[-2457]or a(-2457,29773,44616)
-                                                elseif na<=57818 then
-                                                    return C
-                                                else
-                                                    if(uc>=0 and Pc>n)or((uc<0 or uc~=uc)and Pc<n)then
-                                                        na=53328
+                                                end
+                                            until wa==15680
+                                        end)(A,ca))
+                                        Ib=0.057736218332064805*9197
+                                    end
+                                elseif Ib>68252+-6629 then
+                                    if Ib<=96286+-31293 then
+                                        if Ib>-1138994040/-17592 then
+                                            if Ib>75834720/1170 then
+                                                g='T\29\197'
+                                                Ib=-1.5226703197567577*-29929
+                                            else
+                                                ka=Eb[ka]
+                                                Ib=n[38858+-27151]or vc(-13284+24991,-592770624/-13488,-543292568/-23764)
+                                            end
+                                        else
+                                            qc='*v\4\4\141\166\210\254\215vr'
+                                            Ib=28675+4258
+                                        end
+                                    else
+                                        ka=ka()
+                                        Ib=n[15116]or vc(15116,82127,6125)
+                                    end
+                                elseif Ib<=64552+-4950 then
+                                    if Ib>-514525294/-8777 then
+                                        ca='\145\49'
+                                        Ib=n[-27525+-752]or vc(-799928053/28289,74127-11853,-26.058139534883722*-860)
+                                    else
+                                        ka=ka(sc(A[1],1,A[2]))
+                                        Ib=93153-27816
+                                    end
+                                elseif Ib>1436376250/23750 then
+                                    qc=Ba(K(qc))
+                                    Ib=31574-4246
+                                elseif Ib<=48015- -11840 then
+                                    if Ib>1643848050/27525 then
+                                        A='\3L\tH'
+                                        Ib=n[-185867991/-14513]or vc(3.4896457765667575*3670,100661-20080,-17983- -28894)
+                                    else
+                                        ca='d-'
+                                        Ib=4.8368421052631581*11020
+                                    end
+                                else
+                                    ka=(function(Ob,C)
+                                        local ja,N,Xa,E,B,ub,d,pa
+                                        Xa,N={},function(Lb,L,Lc)
+                                            Xa[Lb]=pb(L,52659)-pb(Lc,59085)
+                                            return Xa[Lb]
+                                        end
+                                        d=Xa[18165]or N(18165,125606,38778)
+                                        repeat
+                                            while true do
+                                                if d<=28255 then
+                                                    if d>9280 then
+                                                        if(ub>=0 and ja>B)or((ub<0 or ub~=ub)and ja<B)then
+                                                            d=Xa[17505]or N(17505,14365,53044)
+                                                        else
+                                                            d=Xa[12484]or N(12484,29287,18438)
+                                                        end
                                                     else
-                                                        na=l[-15107]or a(-15107,32513,8663)
+                                                        E=E..kc(aa(fc(Ob,(pa-12)+1),fc(C,(pa-12)%#C+1)))
+                                                        d=Xa[1354]or N(1354,97679,4814)
                                                     end
+                                                elseif d>47629 then
+                                                    if d>50167 then
+                                                        return E
+                                                    else
+                                                        ja=ja+ub;
+                                                        pa=ja;
+                                                        if ja~=ja then
+                                                            d=52149
+                                                        else
+                                                            d=14200
+                                                        end
+                                                    end
+                                                elseif d<=44769 then
+                                                    pa=ja;
+                                                    if B~=B then
+                                                        d=Xa[6257]or N(6257,116768,57107)
+                                                    else
+                                                        d=Xa[-17797]or N(-17797,122009,16255)
+                                                    end
+                                                else
+                                                    E='';
+                                                    ja,ub,B=12,1,(#Ob-1)+12
+                                                    d=Xa[-1807]or N(-1807,127014,29693)
                                                 end
                                             end
-                                        until na==14770
-                                    end)(wa,Xa))
-                                    Rc=2.2458118909449252*18266
-                                else
-                                    wa=wa[Cc(Xa[1],1,Xa[2])]
-                                    Rc=1.5312411448002268*28232
+                                        until d==61514
+                                    end)(ka,A)
+                                    Ib=54553-14459
                                 end
-                            elseif Rc<=2.9427812811151677*15065 then
-                                if Rc<=57698+-17319 then
-                                    if Rc<=12031- -26735 then
-                                        Xa='8\132'
-                                        Rc=68368+-3153
+                            elseif Ib<=-4.2333053338933224*-9524 then
+                                if Ib<=67074-30410 then
+                                    if Ib>8266- -25414 then
+                                        ca=(function(Vb,Nc)
+                                            local Aa,Qa,Sb,wc,Bb,Db,Tb,db
+                                            Bb,Tb={},function(Ua,qb,X)
+                                                Bb[Ua]=pb(qb,11918)-pb(X,25622)
+                                                return Bb[Ua]
+                                            end
+                                            db=Bb[3288]or Tb(3288,109181,60004)
+                                            repeat
+                                                while true do
+                                                    if db<=32280 then
+                                                        if db<=9190 then
+                                                            return wc
+                                                        elseif db>13628 then
+                                                            if db>15958 then
+                                                                Qa=Qa+Db;
+                                                                Sb=Qa;
+                                                                if Qa~=Qa then
+                                                                    db=1455
+                                                                else
+                                                                    db=14990
+                                                                end
+                                                            else
+                                                                if(Db>=0 and Qa>Aa)or((Db<0 or Db~=Db)and Qa<Aa)then
+                                                                    db=Bb[31585]or Tb(31585,9575,25132)
+                                                                else
+                                                                    db=Bb[2230]or Tb(2230,47813,4070)
+                                                                end
+                                                            end
+                                                        else
+                                                            wc=wc..kc(aa(fc(Vb,(Sb-39)+1),fc(Nc,(Sb-39)%#Nc+1)))
+                                                            db=Bb[409]or Tb(409,31455,30245)
+                                                        end
+                                                    elseif db>55054 then
+                                                        wc='';
+                                                        Aa,Qa,Db=(#Vb-1)+39,39,1
+                                                        db=47004
+                                                    else
+                                                        Sb=Qa;
+                                                        if Aa~=Aa then
+                                                            db=Bb[12344]or Tb(12344,8954,25299)
+                                                        else
+                                                            db=Bb[-29541]or Tb(-29541,55593,55567)
+                                                        end
+                                                    end
+                                                end
+                                            until db==8081
+                                        end)(ca,g)
+                                        Ib=n[15.67292377701934*-1758]or vc(-2923+-24630,-1.7550310426032969*-18684,71071+-14745)
+                                    elseif Ib<=-763595010/-22830 then
+                                        ca=Ba((function(pc,ya)
+                                            local Fb,Da,fb,kb,yb,dc,Zc,h
+                                            dc,Fb={},function(ua,ba,x)
+                                                dc[ua]=pb(ba,60387)-pb(x,50423)
+                                                return dc[ua]
+                                            end
+                                            kb=dc[9891]or Fb(9891,88753,6032)
+                                            repeat
+                                                while true do
+                                                    if kb>29919 then
+                                                        if kb>44086 then
+                                                            if kb<=55190 then
+                                                                return fb
+                                                            else
+                                                                fb='';
+                                                                Zc,yb,h=1,101,(#pc-1)+101
+                                                                kb=dc[28812]or Fb(28812,109833,2207)
+                                                            end
+                                                        elseif kb<=36847 then
+                                                            Da=yb;
+                                                            if h~=h then
+                                                                kb=dc[-9543]or Fb(-9543,130644,32897)
+                                                            else
+                                                                kb=3027
+                                                            end
+                                                        elseif kb>41321 then
+                                                            fb=fb..kc(aa(fc(pc,(Da-101)+1),fc(ya,(Da-101)%#ya+1)))
+                                                            kb=dc[32352]or Fb(32352,29698,50845)
+                                                        else
+                                                            yb=yb+Zc;
+                                                            Da=yb;
+                                                            if yb~=yb then
+                                                                kb=53569
+                                                            else
+                                                                kb=dc[-17489]or Fb(-17489,57367,50390)
+                                                            end
+                                                        end
+                                                    else
+                                                        if(Zc>=0 and yb>h)or((Zc<0 or Zc~=Zc)and yb<h)then
+                                                            kb=53569
+                                                        else
+                                                            kb=dc[7355]or Fb(7355,84869,16381)
+                                                        end
+                                                    end
+                                                end
+                                            until kb==6252
+                                        end)(ca,g))
+                                        Ib=18172- -4173
                                     else
-                                        Nc='8\132'
-                                        Rc=71997-25379
+                                        qc='mQiHv4SymXkayqfV4NneHdxDGY6yVwEPqsYvXp/9vg=='
+                                        Ib=-2.0251759341857469*-30267
                                     end
-                                elseif Rc>35941- -6185 then
-                                    if Rc>50684+-7880 then
-                                        Xa='_\229U\225'
-                                        Rc=22447- -17556
-                                    else
-                                        wa='\151-\174\153/'
-                                        Rc=_c[-1908+27015]or Ob(1.7424526337705601*14409,66242+7884,28637+-20686)
-                                    end
-                                elseif Rc>-1.5770707416277037*-26307 then
-                                    wa=ha[Cc(wa[1],1,wa[2])]
-                                    Rc=-27365+29510
+                                elseif Ib<=22341- -16529 then
+                                    A=Ba(A(ca,(sc(g[1],1,g[2]))))
+                                    Ib=n[-0.61786709237174064*31947]or vc(-1.7600534997770843*11215,-1941093960/-16340,87267+-28078)
+                                elseif Ib<=23690+16001 then
+                                    g=K(g)
+                                    Ib=n[-3.9322193015396172*-5326]or vc(5785+15158,-2033526396/-23866,572925249/10257)
                                 else
-                                    wa=ha[Cc(wa[1],1,wa[2])]
-                                    Rc=26093-16242
+                                    ka=Eb[ka]
+                                    Ib=18404+-14868
                                 end
-                            elseif Rc>54948+-6412 then
-                                if Rc>18969+30910 then
-                                    if Rc>-535335968/-10576 then
-                                        m=m(Cc(wa[1],1,wa[2]))
-                                        Rc=_c[37203-5195]or Ob(1042564576/32572,4682- -26195,-10441- -27072)
+                            elseif Ib<=60760+-15657 then
+                                if Ib>30681- -12554 then
+                                    if Ib>16898- -26636 then
+                                        A=Ba((function(ob,c)
+                                            local La,v,ed,_a,Fc,vb,Dc,S
+                                            v,_a={},function(ic,Jb,Nb)
+                                                v[ic]=pb(Jb,1736)-pb(Nb,17469)
+                                                return v[ic]
+                                            end
+                                            Dc=v[30377]or _a(30377,71631,52861)
+                                            repeat
+                                                while true do
+                                                    if Dc<=44076 then
+                                                        if Dc<=30784 then
+                                                            ed=ed+S;
+                                                            vb=ed;
+                                                            if ed~=ed then
+                                                                Dc=34051
+                                                            else
+                                                                Dc=37164
+                                                            end
+                                                        elseif Dc>35607 then
+                                                            if(S>=0 and ed>Fc)or((S<0 or S~=S)and ed<Fc)then
+                                                                Dc=v[17145]or _a(17145,99981,49023)
+                                                            else
+                                                                Dc=53450
+                                                            end
+                                                        elseif Dc<=34277 then
+                                                            return La
+                                                        else
+                                                            La='';
+                                                            ed,Fc,S=59,(#ob-1)+59,1
+                                                            Dc=63747
+                                                        end
+                                                    elseif Dc>58598 then
+                                                        vb=ed;
+                                                        if Fc~=Fc then
+                                                            Dc=v[29865]or _a(29865,96237,43039)
+                                                        else
+                                                            Dc=v[-20340]or _a(-20340,79868,58421)
+                                                        end
+                                                    else
+                                                        La=La..kc(aa(fc(ob,(vb-59)+1),fc(c,(vb-59)%#c+1)))
+                                                        Dc=v[2363]or _a(2363,40165,32485)
+                                                    end
+                                                end
+                                            until Dc==34804
+                                        end)(A,ca))
+                                        Ib=1.5884978991596639*7616
                                     else
-                                        Rc=_c[31525+-3752]or Ob(14041+13732,-568171233/-5411,59030+-12396);
-                                        break;
+                                        g='d-'
+                                        Ib=4.8972855227882039*5968
                                     end
-                                elseif Rc>20666- -28581 then
-                                    Nc='\197\150x'
-                                    Rc=585341652/25202
                                 else
-                                    Xa=ha[Xa]
-                                    Rc=_c[-22424+7449]or Ob(1.7007382169222034*-8805,972346584/14311,-20.235917188252287*-2077)
+                                    A='\ft\210\170\158'
+                                    Ib=56217+-8814
                                 end
-                            elseif Rc<=6.3256036011458194*7331 then
-                                x='\29\199\194{C[d\208\5\26\237'
-                                Rc=_c[34880-29949]or Ob(-5432- -10363,502460880/8868,19044+-10131)
-                            elseif Rc<=73495-26781 then
-                                Xa=(function(Aa,Ga)
-                                    local qc,p,ra,U,tb,ac,vb,Qb
-                                    vb,U={},function(La,c,_a)
-                                        vb[La]=Oc(c,9704)-Oc(_a,59516)
-                                        return vb[La]
+                            elseif Ib>2.6501909811299242*17541 then
+                                if Ib<=26228- -20987 then
+                                    ka=ka()
+                                    Ib=n[-18144]or vc(-18144,305,4402)
+                                else
+                                    ka=(function(jc,D)
+                                        local Pb,Zb,Ia,Cc,Ec,cc,P,q
+                                        q,Ia={},function(z,W,zb)
+                                            q[z]=pb(W,12706)-pb(zb,32945)
+                                            return q[z]
+                                        end
+                                        Cc=q[17935]or Ia(17935,101841,17010)
+                                        repeat
+                                            while true do
+                                                if Cc<=39353 then
+                                                    if Cc<=25512 then
+                                                        if Cc>18755 then
+                                                            if(P>=0 and cc>Pb)or((P<0 or P~=P)and cc<Pb)then
+                                                                Cc=34916
+                                                            else
+                                                                Cc=55676
+                                                            end
+                                                        else
+                                                            Zb=cc;
+                                                            if Pb~=Pb then
+                                                                Cc=34916
+                                                            else
+                                                                Cc=22725
+                                                            end
+                                                        end
+                                                    elseif Cc<=35577 then
+                                                        return Ec
+                                                    else
+                                                        cc=cc+P;
+                                                        Zb=cc;
+                                                        if cc~=cc then
+                                                            Cc=q[10819]or Ia(10819,54662,56177)
+                                                        else
+                                                            Cc=q[-2818]or Ia(-2818,97576,29556)
+                                                        end
+                                                    end
+                                                elseif Cc>59798 then
+                                                    Ec='';
+                                                    cc,Pb,P=194,(#jc-1)+194,1
+                                                    Cc=14786
+                                                else
+                                                    Ec=Ec..kc(aa(fc(jc,(Zb-194)+1),fc(D,(Zb-194)%#D+1)))
+                                                    Cc=q[-9817]or Ia(-9817,41974,33911)
+                                                end
+                                            end
+                                        until Cc==2973
+                                    end)(ka,A)
+                                    Ib=n[25581450/-14925]or vc(-30124- -28410,2.4736478855565314*31876,43119+-28705)
+                                end
+                            else
+                                ca=Ba((function(oa,Z)
+                                    local Kc,r,ma,M,tb,Cb,b,Ha
+                                    M,Ha={},function(Sa,_c,Mc)
+                                        M[Sa]=pb(_c,35507)-pb(Mc,61102)
+                                        return M[Sa]
                                     end
-                                    tb=vb[-14296]or U(-14296,79588,22660)
+                                    Kc=M[-16614]or Ha(-16614,49246,43047)
                                     repeat
                                         while true do
-                                            if tb<=36586 then
-                                                if tb<=23855 then
-                                                    if(Qb>=0 and ra>p)or((Qb<0 or Qb~=Qb)and ra<p)then
-                                                        tb=50027
+                                            if Kc<=30396 then
+                                                if Kc>13407 then
+                                                    r=b;
+                                                    if Cb~=Cb then
+                                                        Kc=M[-23189]or Ha(-23189,107007,23077)
                                                     else
-                                                        tb=vb[16385]or U(16385,87106,26226)
+                                                        Kc=M[-20692]or Ha(-20692,106723,26951)
                                                     end
-                                                elseif tb<=28957 then
-                                                    ac='';
-                                                    p,ra,Qb=(#Aa-1)+86,86,1
-                                                    tb=vb[-29317]or U(-29317,78326,31620)
+                                                elseif Kc<=2753 then
+                                                    tb='';
+                                                    b,Cb,ma=155,(#oa-1)+155,1
+                                                    Kc=25691
                                                 else
-                                                    qc=ra;
-                                                    if p~=p then
-                                                        tb=50027
+                                                    b=b+ma;
+                                                    r=b;
+                                                    if b~=b then
+                                                        Kc=M[-15505]or Ha(-15505,15792,44780)
                                                     else
-                                                        tb=14904
+                                                        Kc=41575
                                                     end
                                                 end
-                                            elseif tb<=51343 then
-                                                if tb<=47222 then
-                                                    ra=ra+Qb;
-                                                    qc=ra;
-                                                    if ra~=ra then
-                                                        tb=vb[28511]or U(28511,108396,22373)
-                                                    else
-                                                        tb=14904
-                                                    end
-                                                else
-                                                    return ac
-                                                end
+                                            elseif Kc>45034 then
+                                                tb=tb..kc(aa(fc(oa,(r-155)+1),fc(Z,(r-155)%#Z+1)))
+                                                Kc=M[-29311]or Ha(-29311,57415,46968)
+                                            elseif Kc<=35988 then
+                                                return tb
                                             else
-                                                ac=ac..Z(w(Ia(Aa,(qc-86)+1),Ia(Ga,(qc-86)%#Ga+1)))
-                                                tb=vb[31720]or U(31720,50423,56289)
+                                                if(ma>=0 and b>Cb)or((ma<0 or ma~=ma)and b<Cb)then
+                                                    Kc=30401
+                                                else
+                                                    Kc=M[-13022]or Ha(-13022,124828,27317)
+                                                end
                                             end
                                         end
-                                    until tb==44117
-                                end)(Xa,Nc)
-                                Rc=_c[0.9281877073787328*12658]or Ob(-1.7300839346193491*-6791,45130+31280,1.483475859611616*22452)
-                            else
-                                m=m()
-                                Rc=_c[-5326]or Ob(-5326,90383,53517)
+                                    until Kc==58304
+                                end)(ca,g))
+                                Ib=50203-21005
                             end
                         end
-                    until Rc==-1.4871306313579848*-30965
+                    until Ib==-7130+10161
                 end)
-                bc=Mc[-24698- -14289]or lb(-7412-2997,67166+18845,-110148815/-14665)
-            end
-        elseif bc<=66385-15242 then
-            if bc<=-1070157776/-25264 then
-                nb='\a\231\31\197'
-                bc=36313+-17631
+                nc=7333216/4016
             else
-                bc=Mc[-59568705/-14763]or lb(10030-5995,-8292+13646,-1.7040871153777268*-27917);
-                break;
+                ha='\180['
+                nc=Y[-11986+6353]or Yc(-1.0525037369207773*5352,481125370/6418,-11.670021062485374*-4273)
             end
-        elseif bc<=9.8773329079598025*6269 then
-            if bc<=272807694/4502 then
-                nb=(function(j,Oa)
-                    local ub,fb,bb,sc,wb,d,Y,qa
-                    qa,bb={},function(S,Ta,T)
-                        qa[S]=Oc(Ta,64988)-Oc(T,1159)
-                        return qa[S]
-                    end
-                    Y=qa[4751]or bb(4751,116970,18261)
-                    repeat
-                        while true do
-                            if Y<=53355 then
-                                sc=sc..Z(w(Ia(j,(d-150)+1),Ia(Oa,(d-150)%#Oa+1)))
-                                Y=qa[-4642]or bb(-4642,129856,9028)
-                            elseif Y>57839 then
-                                if Y<=60721 then
-                                    return sc
-                                elseif Y>61756 then
-                                    sc='';
-                                    fb,ub,wb=(#j-1)+150,1,150
-                                    Y=53883
-                                else
-                                    if(ub>=0 and wb>fb)or((ub<0 or ub~=ub)and wb<fb)then
-                                        Y=qa[9942]or bb(9942,83947,54718)
-                                    else
-                                        Y=44915
-                                    end
-                                end
-                            elseif Y<=55466 then
-                                d=wb;
-                                if fb~=fb then
-                                    Y=59646
-                                else
-                                    Y=61717
-                                end
-                            else
-                                wb=wb+ub;
-                                d=wb;
-                                if wb~=wb then
-                                    Y=qa[10105]or bb(10105,89825,48824)
-                                else
-                                    Y=qa[22145]or bb(22145,92170,41030)
-                                end
-                            end
-                        end
-                    until Y==62334
-                end)(nb,B)
-                bc=Mc[-42024+28596]or lb(-19126+5698,-2923489524/-28676,37349+-12446)
-            else
-                B='c\28'
-                bc=Mc[5863-27295]or lb(-41753+20321,280257918/4154,34535- -18388)
-            end
-        elseif bc>61977+1035 then
-            P=ha[P]
-            bc=10211248/6844
+        elseif nc>13217-9750 then
+            Gb='\193%G\6\215>\\\a\199'
+            nc=Y[-33136+20351]or Yc(-11628+-1157,-2167723992/-22107,9.1909090909090914*3410)
+        elseif nc<=14955+-12545 then
+            Gb=Gb()
+            nc=Y[4117]or Yc(4117,92804,51077)
         else
-            P=P[nb]
-            bc=29760+-14669
+            Gb=Gb[eb]
+            nc=Y[-271109387/-17663]or Yc(-4804237/-313,54096+-14779,75245+-20636)
         end
     end
-until bc==8395+9881
+until nc==-1374311150/-28150
